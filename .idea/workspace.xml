@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702988678418</updated>
-      <workItem from="1702988679551" duration="5229000" />
+      <workItem from="1702988679551" duration="8882000" />
     </task>
     <servers />
   </component>
@@ -66,7 +66,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>84</line>
+          <line>153</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
